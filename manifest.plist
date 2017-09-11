@@ -15,7 +15,7 @@
           <string>software-package</string>
           <!-- required. the URL of the file to download. -->
           <key>url</key>
-		<string>https://github.com/mfagapp/download/raw/master/apps-2abe5a80-58.ipa</string>          
+		<string>https://github.com/mfagapp/download/raw/master/mfag.ipa</string>          
         </dict>
         <!-- display-image: the icon to display during download.-->
         <dict>
