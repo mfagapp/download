@@ -23,7 +23,8 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Install MFAG App v1.0 (iOS)]("itms-services://?action=download-manifest&url=https://filedn.com/lhUF3oQotxuF7WizXSsuBdB/manifest.plist")
+ and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
