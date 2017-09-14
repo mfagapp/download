@@ -21,13 +21,13 @@
   <div class="container">
     <a class="btn btn-default btn-lg" 
        href="itms-services://?action=download-manifest&url=https://github.com/mfagapp/download/raw/master/manifest.plist"
-       onclick="alert('The app will start installing in the background automatically.')">
+       onclick="function() {alert('The app will start installing in the background automatically.');}">
       <img src="ios-download.png" title="Download for iOS" />
     </a>
     
     <a class="btn btn-default btn-lg" 
        href="https://github.com/mfagapp/download/raw/master/apps-2abe5a80-70.apk"
-       onclick="alert('Note that you might need to enable Trust unknown sources to install the app.')">
+       onclick="function() {alert('Note that you might need to enable Trust unknown sources to install the app.');}">
       <img src="android-download.png" title="Download for Android" />
     </a>
   </div>
